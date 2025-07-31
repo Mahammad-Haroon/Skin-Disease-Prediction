@@ -79,6 +79,3 @@ python main.py
 
 ** MAHAMMAD HAROON**
 Email: mahammadharoon14@gmail.com
-Final Year Student | Enthusiastic Deep Learning Practitioner
-
---
